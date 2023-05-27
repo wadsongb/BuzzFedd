@@ -1,0 +1,195 @@
+{
+  "quizz": [
+    {
+      "title": "Qual é o seu tipo de personalidade secreta?",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Quando você está em um ambiente social, você é mais?",
+          "options": [
+            { "id": 1, "name": "Extrovertido e adora chamar a atenção.", "alias": "A" },
+            { "id": 2, "name": "Introvertido e prefere observar antes de se envolver.", "alias": "B" },
+            { "id": 3, "name": "Uma combinação dos dois, dependendo da situação.", "alias": "A" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Qual atividade você prefere fazer em seu tempo livre?",
+          "options": [
+            { "id": 1, "name": "Sair com amigos e participar de eventos sociais.", "alias": "A" },
+            { "id": 2, "name": "Ler um bom livro ou assistir a um filme em casa.", "alias": "B" },
+            { "id": 3, "name": "Alternar entre sair com amigos e ter momentos tranquilos em casa.", "alias": "B" }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Como você lida com situações estressantes?",
+          "options": [
+            { "id": 1, "name": "Tomando a iniciativa e enfrentando o problema de frente.", "alias": "A" },
+            { "id": 2, "name": "Retirando-se para um lugar tranquilo e refletindo sobre a situação.", "alias": "B" },
+            { "id": 3, "name": "Adaptando-se de acordo com a situação e buscando um equilíbrio.", "alias": "A" }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Qual é a sua abordagem em relação ao trabalho?",
+          "options": [
+            { "id": 1, "name": "Gosto de trabalhar em equipe e colaborar com os outros.", "alias": "A" },
+            { "id": 2, "name": "Prefiro trabalhar sozinho, sem muita interferência externa.", "alias": "B" },
+            { "id": 3, "name": "Posso me adaptar a ambos os estilos, dependendo do projeto.", "alias": "B" }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Como você se sente em relação a mudanças inesperadas?",
+          "options": [
+            { "id": 1, "name": "Eu as abraço e vejo como oportunidades para crescer.", "alias": "A" },
+            { "id": 2, "name": "Eu as acho desconfortáveis e prefiro uma rotina estável.", "alias": "B" },
+            { "id": 3, "name": "Eu posso lidar com elas, mas gosto de alguma estabilidade.", "alias": "A" }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Qual é a sua abordagem em relação a riscos?",
+          "options": [
+            { "id": 1, "name": "Eu gosto de correr riscos e buscar novas experiências.", "alias": "A" },
+            { "id": 2, "name": "Eu sou mais cauteloso e prefiro evitar grandes riscos.", "alias": "B" },
+            { "id": 3, "name": "Eu posso ser cauteloso, mas também estou disposto a assumir riscos calculados.", "alias": "B" }
+          ]
+        }
+      ],
+      "results":{
+        "A": "Você tem uma personalidade extrovertida e adora estar no centro das atenções.",
+        "B": "Você tem uma personalidade introvertida e valoriza momentos de reflexão e tranquilidade."
+      }
+    },
+        {
+          "title": "10 Sinais de que você é um verdadeiro amante de livros",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Qual é a sua reação quando entra em uma livraria?",
+              "options": [
+                { "id": 1, "name": "Fico emocionado e animado, adoro explorar as prateleiras e sentir o cheiro dos livros novos.", "alias": "A" },
+                { "id": 2, "name": "Sinto uma sensação de paz e felicidade, é como se estivesse em meu próprio mundo.", "alias": "B" },
+                { "id": 3, "name": "Gosto de visitar livrarias, mas não tenho uma reação tão intensa.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Quantos livros você tem em sua estante?",
+              "options": [
+                { "id": 1, "name": "Mais de 50 livros, e estou sempre adicionando mais.", "alias": "A" },
+                { "id": 2, "name": "Cerca de 20 a 50 livros, tenho uma coleção cuidadosamente selecionada.", "alias": "B" },
+                { "id": 3, "name": "Menos de 20 livros, mas estou sempre em busca de novas leituras.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Como você se sente quando empresta um livro para alguém?",
+              "options": [
+                { "id": 1, "name": "Fico feliz em compartilhar minhas leituras favoritas e discutir sobre elas depois.", "alias": "A" },
+                { "id": 2, "name": "Fico um pouco ansioso, esperando que a pessoa goste tanto do livro quanto eu.", "alias": "B" },
+                { "id": 3, "name": "Não me importo em emprestar, mas também não fico esperando ansiosamente pelos comentários.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Onde você costuma ler?",
+              "options": [
+                { "id": 1, "name": "Em qualquer lugar! Adoro ler em cafeterias, parques, no transporte público, em qualquer cantinho aconchegante.", "alias": "A" },
+                { "id": 2, "name": "Prefiro ler em um ambiente tranquilo, como em casa ou na biblioteca.", "alias": "B" },
+                { "id": 3, "name": "Leio em diversos lugares, dependendo da disponibilidade e do meu humor.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Como você se sente quando um livro que você ama é adaptado para o cinema ou a TV?",
+              "options": [
+                { "id": 1, "name": "Fico animado para ver a história ganhar vida de uma nova forma.", "alias": "A" },
+                { "id": 2, "name": "Fico um pouco preocupado, com medo de que a adaptação não faça justiça ao livro.", "alias": "B" },
+                { "id": 3, "name": "Tenho uma postura neutra, tanto faz se a adaptação é boa ou ruim.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Você gosta de participar de clubes de leitura ou discussões sobre livros?",
+              "options": [
+                { "id": 1, "name": "Sim, adoro compartilhar minhas opiniões e discutir livros com outras pessoas.", "alias": "A" },
+                { "id": 2, "name": "Às vezes participo, mas prefiro refletir sobre as leituras por conta própria.", "alias": "B" },
+                { "id": 3, "name": "Não costumo participar, prefiro apreciar os livros em silêncio.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Como você organiza sua coleção de livros?",
+              "options": [
+                { "id": 1, "name": "Tenho minhas próprias categorias temáticas ou organizo por autor/editora.", "alias": "A" },
+                { "id": 2, "name": "Organizo por gênero ou estilo literário.", "alias": "B" },
+                { "id": 3, "name": "Não tenho uma organização específica, apenas coloco os livros na estante.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Qual é a sensação de terminar um livro realmente envolvente?",
+              "options": [
+                { "id": 1, "name": "Fico satisfeito e emocionado com a história que acabei de vivenciar.", "alias": "A" },
+                { "id": 2, "name": "Sinto uma mistura de emoções, às vezes um pouco triste por ter acabado.", "alias": "B" },
+                { "id": 3, "name": "É apenas mais uma leitura concluída, não é algo que me afete profundamente.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Você costuma recomendar livros para seus amigos e familiares?",
+              "options": [
+                { "id": 1, "name": "Sim, sempre! Adoro compartilhar minhas leituras favoritas com as pessoas próximas.", "alias": "A" },
+                { "id": 2, "name": "Às vezes, se acredito que a pessoa vai gostar da história.", "alias": "B" },
+                { "id": 3, "name": "Raramente, a menos que me peçam uma recomendação específica.", "alias": "C" }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "Como você se sente ao entrar em uma biblioteca?",
+              "options": [
+                { "id": 1, "name": "É como se estivesse entrando em um templo sagrado, um lugar cheio de conhecimento e histórias.", "alias": "A" },
+                { "id": 2, "name": "Sinto uma sensação de calma e respeito, é um ambiente que me inspira.", "alias": "B" },
+                { "id": 3, "name": "Gosto de visitar bibliotecas, mas não tenho uma reação tão intensa.", "alias": "C" }
+              ]
+            }
+          ],
+          "results":
+            {
+              "A": "Você é um verdadeiro amante de livros! Sua paixão pela leitura é evidente em sua empolgação ao entrar em livrarias, na quantidade de livros em sua estante e na vontade de compartilhar suas leituras favoritas com os outros.",
+              "B": "Você é um amante de livros tranquilo e introspectivo. A leitura é uma fonte de paz e felicidade para você, e sua coleção de livros é cuidadosamente selecionada para refletir seus gostos literários."
+            }
+    },
+
+    {
+      "title":"Você tem a mente jovem ou velha?",
+      "questions":[
+        {
+          "id":1,
+          "question": "O que voce prefere?",
+          "options":[
+            {"id": 1, "name":"Fazer tricô", "alias":"A"},
+            {"id": 2, "name":"Jogar videogame", "alias":"B"},
+            {"id": 3, "name":"Jogar cartas", "alias":"A"},
+            {"id": 4, "name":"Andar de bicicleta", "alias":"B"}
+          ]
+        },
+        {
+          "id":2,
+          "question": "O que você prefere?",
+          "options":[
+            {"id": 1, "name":"Passear", "alias":"B"},
+            {"id": 2, "name":"Ficar em casa", "alias":"A"}
+          ]
+        }
+      ],
+      "results":{
+        "A": "Você pensa como um velho",
+        "B": "Voce pensa como um jovem"
+      }
+    }
+  ]
+}
